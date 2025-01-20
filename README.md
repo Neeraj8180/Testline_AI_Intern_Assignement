@@ -1,6 +1,7 @@
 # Testline AI Engineering Intern Assignment
 
 This repository contains a Jupyter Notebook, **`Testline_AI_Engineering_Intern_Assignement.ipynb`**, created as part of an AI Engineering Intern assignment.
+**Explanation Video :** https://drive.google.com/file/d/1ASkfCRjy1Tw-a3F7V-F2Cv4pldoryrNY/view?usp=sharing
 
 
 # Quiz Analysis and Insights Generation
