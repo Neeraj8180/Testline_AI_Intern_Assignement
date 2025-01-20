@@ -114,6 +114,3 @@ python script.py
 The outputs include data summaries, visualizations, and a student persona JSON file.
 
 ---
-
-## License
-This project is licensed under the MIT License.
