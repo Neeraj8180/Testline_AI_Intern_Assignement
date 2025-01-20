@@ -1,3 +1,8 @@
+# Testline AI Engineering Intern Assignment
+
+This repository contains a Jupyter Notebook, **`Testline_AI_Engineering_Intern_Assignement.ipynb`**, created as part of an AI Engineering Intern assignment.
+
+
 # Quiz Analysis and Insights Generation
 
 This repository contains a Python-based solution for analyzing quiz data and generating insights. It processes historical and current quiz data to provide performance metrics, trends, and recommendations for improvement.
