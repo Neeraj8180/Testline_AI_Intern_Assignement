@@ -102,7 +102,7 @@ This repository contains a Python-based solution for analyzing quiz data and gen
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Neeraj8180/Testline_AI_Intern_Assignement
    ```
 2. Install dependencies:
    ```bash
