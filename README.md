@@ -114,7 +114,7 @@ This repository contains a Python-based solution for analyzing quiz data and gen
 ## Usage
 Run the script in a Python environment:
 ```bash
-python script.py
+python notebook using google colab or jupyter notebook
 ```
 The outputs include data summaries, visualizations, and a student persona JSON file.
 
